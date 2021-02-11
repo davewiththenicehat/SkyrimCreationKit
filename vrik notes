@@ -1,0 +1,9 @@
+vrik\scripts\vrik.psc
+Start Line #: 239
+; Get world-space coordinates for hands and HMD
+Float Function VrikGetHandX(Bool onLeft) native global
+Float Function VrikGetHandY(Bool onLeft) native global
+Float Function VrikGetHandZ(Bool onLeft) native global
+Float Function VrikGetHmdX() native global
+Float Function VrikGetHmdY() native global
+Float Function VrikGetHmdZ() native global
