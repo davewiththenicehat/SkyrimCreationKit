@@ -1,0 +1,4 @@
+
+Possible triggers
+https://www.creationkit.com/index.php?title=OnTriggerEnter_-_ObjectReference
+https://www.creationkit.com/index.php?title=OnTrigger_-_ObjectReference
